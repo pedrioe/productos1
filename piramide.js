@@ -11,7 +11,7 @@ let numero = Number(readline.question("pasame un numero"));
 
 // for (let i = 0; i < numero ; i++) {
 //   linea = " * ";
-//   for (let j = i; j > 0; j--) {
+//   for (let j = i; j < 0; j--) {
 //     linea += " * ";
 //   }
 //   console.log(linea);
