@@ -8,4 +8,4 @@ for ( let i = 0; i<lista.length; i++) {
  }
 }
 
-console.log(`la lista es ${resultado}`);
+console.log(`la lista es ${resultado}`);z
