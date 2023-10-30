@@ -1,6 +1,0 @@
-// Funcion que recibe un listado de productos y una categoria, debe devolver
-// array don los productos que son de la categoria del parametro de entrada.Funcion
-
-// Ejemplo
-
-// filtrarPorCategoria(productoss, "deporte"); debe devolver productos con nombre "bicicleta"
